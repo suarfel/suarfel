@@ -1,16 +1,27 @@
-### Hi there 👋
+# Hello, I'm Surafel Getahun 👋
 
-<!--
-**suarfel/suarfel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a software developer with expertise in Python, C#, JavaScript, Java, HTML, and CSS. 
 
-Here are some ideas to get you started:
+## 🌱 Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Blockchain and Machine Learning
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as a Backend Developer intern at A2SV company.
+- 🌱 I’m also learning Blockchain and Machine Learning to expand my skill set.
+
+
+## 🔧 Technologies & Tools
+
+- **Programming Languages:** Python, C#, JavaScript, Java, HTML, CSS
+- **Frameworks & Libraries:** React.js, .NET, Django, Angular, Bootstrap, Tailwind
+- **Tools & Technologies:** GitHub, Git, Slack, Jira
+
+ 
+## 📫 Let's Connect
+
+- **LinkedIn:** (https://www.linkedin.com/in/surafel-getahun-3a8344235/)
+- **Portfolio:** (https://surafel-portfolio.vercel.app/)
+
+
+ 
+
+ 
+ 
