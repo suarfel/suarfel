@@ -45,7 +45,7 @@ A Full-Stack Software Developer  and a Competitive Programming Enthusiast, who i
  
 ## 📫 Let's Connect
 
-- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/surafel-getahun-3a8344235/)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surafel-getahun-3a8344235/)
 - **Portfolio:** [Personal Portfolio](https://surafel-portfolio.vercel.app/)
 
 
