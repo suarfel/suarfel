@@ -27,7 +27,11 @@ Welcome to my GitHub profile! I'm a software developer with expertise in Python,
 
   
   
-- **Tools & Technologies:** GitHub, Git, Slack, Jira
+- **Tools & Technologies:** ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+   ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
 
  
 ## 📫 Let's Connect
