@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software developer with expertise in Python,
 
 ## 🌱 Current Focus
 
-- 🔭 I’m currently working as a Backend Developer intern at A2SV company.
+- 🔭 I’m currently working as a Backend Developer intern at A2SV company and do personal projects.
 - 🌱 I’m also learning Blockchain and Machine Learning to expand my skill set.
 
 
