@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm a software developer with expertise in Python,
 ## 📫 Let's Connect
 
 - **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/surafel-getahun-3a8344235/)
-- **Portfolio:** [Personal Portfolio] (https://surafel-portfolio.vercel.app/)
+- **Portfolio:** [Personal Portfolio](https://surafel-portfolio.vercel.app/)
 
 
  
