@@ -9,7 +9,8 @@ A Full-Stack Software Developer  and a Competitive Programming Enthusiast, who i
 - 🔭 I’m currently working as a Backend Developer intern at A2SV company and do personal projects.
 - 🌱 I’m also learning Blockchain and Machine Learning to expand my skill set.
 - 🌱 I'm passionate about collaborative coding and open to exciting opportunities! Actively seeking opportunities to contribute and collaborate on innovative projects.
-- 🌱 I improve my problem-solving skill on [Leetcode](https://leetcode.com/surafellion/)
+- 👯 I improve my problem-solving skill on [Leetcode](https://leetcode.com/surafellion/).
+- 📫 You can reach me on: ... DM on [LinkedIn](https://www.linkedin.com/in/surafel-getahun-3a8344235/)
 
 
 ## 🔧 Technologies & Tools
