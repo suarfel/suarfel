@@ -1,6 +1,8 @@
 # Hello, I'm Surafel Getahun 👋
+## Software Engineer 
+This is ME, Surafel Getahun, a Software Engineer from Addis Ababa University.
+A Full-Stack Software Developer  and a Competitive Programming Enthusiast, who is obsessed with the idea of improving himself.
 
-Welcome to my GitHub profile! I'm a software developer with expertise in Python, C#, JavaScript, Java, HTML, and CSS. 
 
 ## 🌱 Current Focus
 
