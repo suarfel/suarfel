@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a software developer with expertise in Python,
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python, C#, JavaScript, Java, HTML, CSS
+- **Programming Languages:**  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white), C#, JavaScript, Java, HTML, CSS
 - **Frameworks & Libraries:** React.js, .NET, Django, Angular, Bootstrap, Tailwind
 - **Tools & Technologies:** GitHub, Git, Slack, Jira
 
